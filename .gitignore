@@ -1,0 +1,97 @@
+# =========================
+# Visual Studio / VB.NET
+# =========================
+
+# User-specific files
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio cache
+.vs/
+
+# =========================
+# Build results
+# =========================
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Debug / Release folders
+Debug/
+Release/
+x64/
+x86/
+AnyCPU/
+
+# =========================
+# .NET build artifacts
+# =========================
+*.dll
+*.exe
+*.pdb
+*.cache
+*.config
+*.resources
+
+# =========================
+# ClickOnce
+# =========================
+publish/
+
+# =========================
+# NuGet
+# =========================
+packages/
+*.nupkg
+*.snupkg
+
+# Ignore NuGet packages config cache
+.nuget/
+
+# =========================
+# Test results
+# =========================
+TestResults/
+*.trx
+
+# =========================
+# Windows files
+# =========================
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# =========================
+# OS / Editor temp files
+# =========================
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+
+# =========================
+# Visual Studio Code (if used)
+# =========================
+.vscode/
+
+# =========================
+# Rider / Other IDEs
+# =========================
+.idea/
+
+# =========================
+# SQL Server / LocalDB
+# =========================
+*.mdf
+*.ldf
+
+# =========================
+# Publish profiles
+# =========================
+*.pubxml
+*.publishsettings
